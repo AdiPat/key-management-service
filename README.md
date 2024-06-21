@@ -1,4 +1,4 @@
-# Plena Finance: Access Key Management Service 🔑
+# Access Key Management Service 🔑
 
 ## Introduction
 
